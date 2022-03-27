@@ -1,0 +1,190 @@
+/* **********************************************************************tag**************************************************** */
+
+body{
+  background-color: #F8F8F8;
+  margin: 0;
+  padding: 0;
+}
+
+/* ********************************************************************************class********************************************************* */
+
+/* slider-bar */
+.banner {
+  z-index: -1;
+}
+
+/* search-bar */
+.search-link {
+  padding: 1% 1%;
+}
+
+.search-link:hover {
+  background-color: #fb540c;
+}
+
+/* searchbar-input */
+.select {
+  height: 40px;
+  width: 210px;
+  text-align: center;
+}
+
+.search-input{
+  padding: 0;
+  margin-top:2%;
+}
+
+.button{
+  margin:  5% 15% 2% 15%;
+
+}
+/* test card */
+.test-card{
+  height: 18rem;
+  margin-top: 2rem;
+}
+
+.test-card-text{
+  margin-top: 1rem;
+}
+
+.test-row{
+    padding: 3% 11%;
+}
+
+/* rate card */
+.rate{
+  font-size: 2rem;
+}
+
+.trip-row{
+    padding: 3% 9%;
+position: relative;
+left:4rem;
+
+}
+
+.trip-col{
+  margin: 1rem 0;
+  padding: 0;
+}
+
+
+/* features */
+.f-c-b{
+  height: 20rem;
+}
+
+.f-cards{
+  margin-top: 2%;
+}
+
+.feature-row{
+  margin: 0;
+  padding: 0;
+}
+.feature-col{
+  padding: 0;
+  margin: 0;
+}
+
+/* download */
+
+.dwn{
+  margin: 1% 2%;
+}
+
+/* Routes */
+.Routes{
+  margin-bottom: 2%;
+}
+
+/* footer */
+.footer-row{
+  margin: 0;
+  padding: 2% 15;
+}
+.footer-col{
+  padding: 0;
+  margin: 1% 0;
+}
+
+.footer-body{
+  background-color: #193651;
+}
+
+.footer-card{
+  border: 0;
+}
+
+.footer-h4{
+   color: #fb540c;
+}
+
+.connection{
+  margin: 1% 2%;
+}
+/* ******************************************************************************id******************************************************************** */
+#search {
+  margin: 0 10%;
+  padding: 0 1%;
+  text-align: center;
+  background-color: #152b57;
+  color: #fff;
+  position: relative;
+  bottom: .5rem;
+}
+
+#search-input {
+text-align: center;
+  padding: 2% 7.5%;
+}
+
+#testimonials{
+  /* padding: 3% 10%; */
+  text-align: center;
+}
+
+#testimonial-text{
+padding: 0.1rem 1%;
+margin: 3% 10%;
+  text-align: center;
+
+  /* font-family: 'Montserrat', sans-serif; */
+  /* font-weight: bold; */
+}
+
+#trips{
+  text-align: center;
+
+}
+
+#features{
+  text-align: center;
+margin: 0;
+padding: 1% 10%;
+}
+
+
+#download{
+  text-align: center;
+}
+
+
+
+#routes{
+  padding: 5% 10% 2% 10%;
+  text-align: center;
+}
+
+#cities{
+  padding: 2% 10%;
+  text-align: center;
+}
+
+#footer{
+  text-align: center;
+  background-color: #193651;
+  color: #fff;
+}
+/* *******************************************************media************************************************************************ */
